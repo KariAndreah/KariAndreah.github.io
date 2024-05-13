@@ -21,7 +21,7 @@ Psychology, BS - University of Houston 2016
 
 ### Work Experience
 
-Software Engineer @ Humana - June 2021 - Present
+##### Software Engineer @ Humana - June 2021 - Present
 
 Developed user-friendly interfaces for an e-commerce platform with NextJs, Tailwind
 CSS, and Figma leading to a 30% increase in user engagement
