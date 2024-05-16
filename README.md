@@ -52,8 +52,9 @@ image analysis using MatLab
 ## Projects
 
 ### OpenMYC
+**[findopenmyc.com](https://findopenmyc.com/)**
 
-![Open MYC](/assets/img/OpenMYC.png)
+![OpenMYC](/assets/img/myc.png)
 
 Application that locates comedy open mics in NYC deployed on [Digital Ocean.](https://jellyfish-app-7sddg.ondigitalocean.app/)
 
