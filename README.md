@@ -17,7 +17,7 @@ Psychology, BS | University of Houston (_2016_)
 
 **Software Engineer @ Humana (_June 2021 - Present_)**
 
-Developed user-friendly interfaces for an e-ckHeroku, Git, DockerHeroku, Git, Dockerommerce platform with NextJs, Tailwind
+Developed user-friendly interfaces for an eCommerce platform with NextJs, Tailwind
 CSS, and Figma leading to a 30% increase in user engagement
 
 - Worked in collaboration with stakeholders to deliver fast, responsive, and
@@ -65,4 +65,4 @@ Application that locates comedy open mics in NYC deployed on [Digital Ocean.](ht
 
 ## Publications
 
-Idse Heemskerk, Kari Burt, Matthew Miller, Sapna Chhabra, M Cecilia Guerra, Lizhong Liu, Aryeh Warmflash (2019) Rapid changes in morphogen concentration control self-organized patterning in human embryonic stem cells eLife 8:e40526.
+Idse Heemskerk, Kari Burt, Matthew Miller, Sapna Chhabra, M Cecilia Guerra, Lizhong Liu, Aryeh Warmflash (2019) **Rapid changes in morphogen concentration control self-organized patterning in human embryonic stem cells** eLife 8:e40526.
