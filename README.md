@@ -56,12 +56,12 @@ image analysis using MatLab
 
 ![OpenMYC](/assets/img/myc.png)
 
-Application that locates comedy open mics in NYC deployed on [Digital Ocean.](https://jellyfish-app-7sddg.ondigitalocean.app/)
+Application that locates comedy open mics within the 5 boroughs of NYC deployed on Digital Ocean.
 
 **Tech Stack:**
 
-- Frontend: NextJS, React, TypeScript, Tailwind,
-- Backend: Node.js, Express, Prisma ORM, Postgres
+- Frontend: NextJS, React, TypeScript, Tailwind
+- Backend: Node.js, Express, PrismaORM, Postgres
 
 ## Publications
 
